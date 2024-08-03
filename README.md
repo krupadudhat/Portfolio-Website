@@ -14,7 +14,7 @@ JavaScript
 
 # How to Use
 Clone the repository:
-git clone https://github.com/yourusername/portfolio-website.git
+https://github.com/krupadudhat/Portfolio-Website.git
 
 # Live Demo
 
